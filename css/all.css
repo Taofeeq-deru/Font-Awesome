@@ -2688,6 +2688,11 @@ readers do not read off random characters that represent icons */
 .fa-music:before {
   content: "\f001"; }
 
+.fa-naira:before {
+  font-weight: 700;
+  font-family: sans-serif:
+  content: '₦'; }
+
 .fa-napster:before {
   content: "\f3d2"; }
 
